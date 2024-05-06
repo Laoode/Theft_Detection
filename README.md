@@ -12,3 +12,8 @@
     <li>🔄 <strong>Video Preprocessing</strong>: CCTV video recordings will be preprocessed to optimize image quality and proportions.</li>
     <li>📊 <strong>Detection Visualization</strong>: Thief detection and ROI are visually displayed in the video footage, helping users understand the events taking place.</li>
 </ul>
+
+<h2 align="left">✍ Explanation Code</h2>
+
+<p>In this tutorial, I explain the code for building an Automatic Thief Detection system using CCTV footage. The tutorial walks through the implementation of the code demonstrated above, which utilizes YOLOv5 object detection along with Region of Interest (ROI) selection to detect potential thieves. Watch the full tutorial on YouTube for a step-by-step explanation and demonstration.</p>
+
