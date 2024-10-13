@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
 # 🕵️ Thief_Detection
 ![logo](https://github.com/Laoode/Theft_Detection/blob/main/Banner.png)
 <h1 align="center">Welcome to Thief Detection Repository 👋</h1>
@@ -25,3 +24,5 @@
 <h2 align="left">📚 Documentation</h2>
 
 <p>Explore the comprehensive documentation for <a href="https://github.com/ultralytics/yolov5">YOLOv5</a> and <a href="https://opencv.org/">OpenCV</a> libraries. Learn more about YOLOv5's powerful object detection capabilities and OpenCV's extensive computer vision functionalities. Dive deeper into the documentation to discover tutorials, guides, and API references for both YOLOv5 and OpenCV.</p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
