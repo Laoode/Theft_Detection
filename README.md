@@ -1,6 +1,6 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
 # 🕵️ Thief_Detection
 ![logo](https://github.com/Laoode/Theft_Detection/blob/main/Banner.png)
-
 <h1 align="center">Welcome to Thief Detection Repository 👋</h1>
 
 <h2 align="left">📃 Features</h2>
