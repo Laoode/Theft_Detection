@@ -22,7 +22,6 @@
 <p>Click on the thumbnail to open the video☝️</p>
 
 <h2 align="left">📚 Documentation</h2>
-
-<p>Explore the comprehensive documentation for <a href="https://github.com/ultralytics/yolov5">YOLOv5</a> and <a href="https://opencv.org/">OpenCV</a> libraries. Learn more about YOLOv5's powerful object detection capabilities and OpenCV's extensive computer vision functionalities. Dive deeper into the documentation to discover tutorials, guides, and API references for both YOLOv5 and OpenCV.</p>
+<p>Find detailed documentation about the <a href="https://github.com/ultralytics/yolov5">YOLOv5</a> and <a href="https://opencv.org/">OpenCV</a> libraries. Learn more about YOLOv5’s visualization capabilities as well as OpenCV’s extensive computer vision functionality. Dive deeper into the documentation to discover tutorials, guidelines, and API specifications for YOLOv5 and OpenCV.</p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
