@@ -1,7 +1,4 @@
-# 🕵️ Thief_Detection
-![logo](https://github.com/Laoode/Theft_Detection/blob/main/Banner.png)
-<h1 align="center">Welcome to Thief Detection Repository 👋</h1>
-
+<h1 align="center">🕵️ YOLO Thief Object Detection</h1>
 <h2 align="left">📃 Features</h2>
 <ul>
     <li>🔍 <strong>Automatic Thief Detection</strong>: The system can automatically detect the presence of thieves in CCTV footage using the YOLOv5 detection model.</li>
