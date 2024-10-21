@@ -1,11 +1,8 @@
-# 🕵️ Thief_Detection
-
-![logo](https://github.com/Laoode/Theft_Detection/blob/main/Banner.png)
-
-<h1 align="center">Welcome to Thief Detection Repository 👋</h1>
-
 <h1 align="center">🕵️ YOLO Thief Object Detection</h1>
->>>>>>> 30429c3220c6bc88289a21c706bf978f122041d8
+<div align="center">
+  <img src="https://github.com/Laoode/Theft_Detection/blob/main/Images/ui-tech.gif" alt="logo">
+</div>
+
 <h2 align="left">📃 Features</h2>
 <ul>
     <li>🔍 <strong>Automatic Thief Detection</strong>: The system can automatically detect the presence of thieves in CCTV footage using the YOLOv5 detection model.</li>
@@ -16,12 +13,16 @@
     <li>📊 <strong>Detection Visualization</strong>: Thief detection and ROI are visually displayed in the video footage, helping users understand the events taking place.</li>
 </ul>
 
+<h2 align="left">📺 Demo</h2>
+
+https://github.com/user-attachments/assets/228a5822-66c6-446b-af0d-41dd8378377e
+
 <h2 align="left">✍ Explanation Code</h2>
 
 <p>In this tutorial, I explain the code for building an Automatic Thief Detection system using CCTV footage. The tutorial walks through the implementation of the code demonstrated above, which utilizes YOLOv5 object detection along with Region of Interest (ROI) selection to detect potential thieves. Watch the full tutorial on YouTube for a step-by-step explanation and demonstration.</p>
 
 <a href="https://youtu.be/GKpb74elfus">
-  <img src="https://github.com/Laoode/Theft_Detection/blob/main/YouTube.png" alt="Thief Detection Tutorial">
+  <img src="https://github.com/Laoode/Theft_Detection/blob/main/Images/YouTube.png" alt="Thief Detection Tutorial">
 </a>
 <p>Click on the thumbnail to open the video☝️</p>
 
@@ -30,4 +31,3 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
 
-> > > > > > > 4d6cb60759a3ed1309bb7da09c9be9ba9fa233a3
